@@ -18,7 +18,7 @@ public class main {
 		Usuario _usr1 = new Usuario();
 		Usuario _usr2 = new Usuario();
 		
-		_usr1.setNombre("Eduardo");
+		_usr1.setNombre("Primer Usuario");
 		_usr1.setFechaNacimiento(fecha);
 		
 		uservice.CrearUsuario(_usr1);
